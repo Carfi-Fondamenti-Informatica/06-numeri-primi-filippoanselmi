@@ -1,2 +1,2 @@
-#define 06_numeri_primi_filippoanselmi/lib.h
+#define 06-numeri-primi-filippoanselmi/lib.h
 int primo (int, int);
